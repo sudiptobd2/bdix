@@ -116,7 +116,7 @@ http://208.86.19.21:80/504.stream/index.m3u8
 #EXTINF:-1,ISLAMI
 http://208.86.19.21:80/507.stream/index.m3u8
 
-#EXTINF:-1MADANI BANGLA
+#EXTINF:-1, MADANI BANGLA
 http://208.86.19.21:80/508.stream/index.m3u8
 #EXTINF:-1, ATV CANADA
 http://208.86.19.21:80/510.stream/index.m3u8
@@ -139,7 +139,7 @@ http://208.86.19.21:80/519.stream/index.m3u8
 #EXTINF:-1, 9XM
 http://208.86.19.21:80/522.stream/index.m3u8
 
-#EXTINF:-1 AKASH ATT
+#EXTINF:-1, AKASH ATT
 http://208.86.19.21:80/902.stream/index.m3u8
 
 #EXTINF:-1, SUN BANGLA
