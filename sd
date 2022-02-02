@@ -1,156 +1,109 @@
 #EXTM3U
-#EXTINF:-1 ,Zee Bollywood
-http://208.86.19.21:80/701.stream/index.m3u8
-#EXTINF:-1 ,&Tv
-http://208.86.19.21:80/703.stream/index.m3u8
-#EXTINF:-1,PTC CHAKDE
-http://208.86.19.21:80/704.stream/index.m3u8
-#EXTINF:-1 ,&Pictures
-http://208.86.19.21:80/705.stream/index.m3u8
-#EXTINF:-1 ,Sony max hd
-http://208.86.19.21:80/706.stream/index.m3u8
-#EXTINF:-1,ASTRO CRICKET
-http://208.86.19.21:80/707.stream/index.m3u8
-#EXTINF:-1 ,Zee Bangla Cinema
-http://208.86.19.21:80/708.stream/index.m3u8
-#EXTINF:-1 ,Star Gold Select HD
-http://208.86.19.21:80/709.stream/index.m3u8
-#EXTINF:-1 ,Sony ten 2
-http://208.86.19.21:80/712.stream/index.m3u8
-#EXTINF:-1 ,Sony Ten 3
-http://208.86.19.21:80/713.stream/index.m3u8
-#EXTINF:-1 ,Jalsha Movies HD
-http://208.86.19.21:80/716.stream/index.m3u8
-#EXTINF:-1, STAR GOLD
-http://208.86.19.21:80/717.stream/index.m3u8
-#EXTINF:-1,E 24
-http://208.86.19.21:80/719.stream/index.m3u8
-#EXTINF:-1 ,Star bharat
-http://208.86.19.21:80/721.stream/index.m3u8
-#EXTINF:-1, ZEE ANMOL CINEMA
-http://208.86.19.21:80/722.stream/index.m3u8
-#EXTINF:-1 ,UTV
-http://208.86.19.21:80/723.stream/index.m3u8
-#EXTINF:-1,PTV SUPER
-http://208.86.19.21:80/725.stream/index.m3u8
-#EXTINF:-1 ,Sony ten 1
-http://208.86.19.21:80/726.stream/index.m3u8
-#EXTINF:-1 ,Zee Action
-http://208.86.19.21:80/728.stream/index.m3u8
-#EXTINF:-1, SONY MAX 2
-http://208.86.19.21:80/730.stream/index.m3u8
-#EXTINF:-1, MUSIC INDIA
-http://208.86.19.21:80/733.stream/index.m3u8
-#EXTINF:-1 ,Colors Cineplex HD
-http://208.86.19.21:80/735.stream/index.m3u8
-#EXTINF:-1 ,Star Sports Select 1 HD
-http://208.86.19.21:80/736.stream/index.m3u8
-#EXTINF:-1 ,Star Sports Select 2 HD
-http://208.86.19.21:80/737.stream/index.m3u8
-
-#EXTINF:-1, JAMUNA TV
-http://208.86.19.21:80/805.stream/index.m3u8
-
-#EXTINF:-1, ATN NEWS
-http://208.86.19.21:80/806.stream/index.m3u8
-
-
-#EXTINF:-1, PTV HD
-http://208.86.19.21:80/603.stream/index.m3u8
-#EXTINF:-1 ,Ekattor TV
-http://208.86.19.21:80/604.stream/index.m3u8
-#EXTINF:-1 ,Colors HD
-http://208.86.19.21:80/605.stream/index.m3u8
-#EXTINF:-1 ,Zee tv hd
-http://208.86.19.21:80/606.stream/index.m3u8
-#EXTINF:-1 ,Star Plus HD
-http://208.86.19.21:80/607.stream/index.m3u8
-#EXTINF:-1, CHANNEL 9
-http://208.86.19.21:80/608.stream/index.m3u8
-#EXTINF:-1, DEEPTO
-http://208.86.19.21:80/609.stream/index.m3u8
-#EXTINF:-1 ,PTV Sports
-http://208.86.19.21:80/610.stream/index.m3u8
-#EXTINF:-1 ,Hum tv
-http://208.86.19.21:80/611.stream/index.m3u8
-#EXTINF:-1, GAN BANGLA
-http://208.86.19.21:80/612.stream/index.m3u8
-#EXTINF:-1, SATV HD
-http://208.86.19.21:80/613.stream/index.m3u8
-#EXTINF:-1, DBC NEWS
-http://208.86.19.21:80/614.stream/index.m3u8
-#EXTINF:-1, ZEE BANGLA HD
-http://208.86.19.21:80/615.stream/index.m3u8
-#EXTINF:-1, COLORS BANGLA HD
-http://208.86.19.21:80/616.stream/index.m3u8
-#EXTINF:-1,JALSHA MOVIES HD
-http://208.86.19.21:80/617.stream/index.m3u8
-#EXTINF:-1,STAR JALSHA HD
-http://208.86.19.21:80/618.stream/index.m3u8
-#EXTINF:-1,ETV BANGLA
-http://208.86.19.21:80/620.stream/index.m3u8
-#EXTINF:-1, MY TV HD
-http://208.86.19.21:80/624.stream/index.m3u8
-#EXTINF:-1,ATN BANGLA
-http://208.86.19.21:80/626.stream/index.m3u8
-#EXTINF:-1,BTV WORLD
-http://208.86.19.21:80/627.stream/index.m3u8
-#EXTINF:-1, DESH TV
-http://208.86.19.21:80/629.stream/index.m3u8
-
-#EXTINF:-1,AB TV
-http://208.86.19.21:80/501.stream/index.m3u8
-
-#EXTINF:-1, MEEM TV
-http://208.86.19.21:80/502.stream/index.m3u8
-
-#EXTINF:-1, TIME TV
-http://208.86.19.21:80/506.stream/index.m3u8
-
-#EXTINF:-1,DESH BIDESH
-http://208.86.19.21:80/505.stream/index.m3u8
-
-#EXTINF:-1, B CINEMA TV
-http://208.86.19.21:80/504.stream/index.m3u8
-
-#EXTINF:-1,ISLAMI
-http://208.86.19.21:80/507.stream/index.m3u8
-
-#EXTINF:-1, MADANI BANGLA
-http://208.86.19.21:80/508.stream/index.m3u8
-#EXTINF:-1, ATV CANADA
-http://208.86.19.21:80/510.stream/index.m3u8
-#EXTINF:-1,SUB RANG TV
-http://208.86.19.21:80/511.stream/index.m3u8
-
-#EXTINF:-1, I TV
-http://208.86.19.21:80/512.stream/index.m3u8
-#EXTINF:-1, DESHI TV
-http://208.86.19.21:80/514.stream/index.m3u8
-
-#EXTINF:-1, MAQ TV
-http://208.86.19.21:80/517.stream/index.m3u8
-
-#EXTINF:-1,THE CHANNEL TV
-http://208.86.19.21:80/518.stream/index.m3u8
-
-#EXTINF:-1,S TV
-http://208.86.19.21:80/519.stream/index.m3u8
-#EXTINF:-1, 9XM
-http://208.86.19.21:80/522.stream/index.m3u8
-
-#EXTINF:-1, AKASH ATT
-http://208.86.19.21:80/902.stream/index.m3u8
-
-#EXTINF:-1, SUN BANGLA
-http://208.86.19.21:80/903.stream/index.m3u8
-
-#EXTINF:-1, COLORS BANGLA
-http://208.86.19.21:80/904.stream/index.m3u8
-
-#EXTINF:-1 ,Zee Bangla
-http://208.86.19.21:80/906.stream/index.m3u8
-#EXTINF:-1, SONGIT BANGLA
-http://208.86.19.21:80/907.stream/index.m3u8
-#EXTINF:-1 ,Star Jalsha
-http://208.86.19.21:80/908.stream/index.m3u8
+#EXTINF:0,Sony HD
+http://thoptv.in1.bitmana.io/jioo.php?c=Sony_HD&q=800&e=.m3u8
+#EXTINF:0,Colors HD
+http://thoptv.in1.bitmana.io/jioo.php?c=Colors_HD&q=800&e=.m3u8
+#EXTINF:0,Zee TV HD
+http://thoptv.in1.bitmana.io/jioo.php?c=Zee_TV_HD&q=800&e=.m3u8
+#EXTINF:0,Sony SAB
+http://thoptv.in1.bitmana.io/jioo.php?c=Sony_SAB&q=800&e=.m3u8
+#EXTINF:0,&TV HD
+http://thoptv.in1.bitmana.io/jioo.php?c=And_TV_HD&q=800&e=.m3u8
+#EXTINF:0,Colors Rishtey
+http://thoptv.in1.bitmana.io/jioo.php?c=Rishtey&q=800&e=.m3u8
+#EXTINF:0,Zee Anmol
+http://thoptv.in1.bitmana.io/jioo.php?c=Zee_Anmol&q=800&e=.m3u8
+#EXTINF:0,Sony Pal
+http://thoptv.in1.bitmana.io/jioo.php?c=Sony_Pal&q=800&e=.m3u8
+#EXTINF:0,Sony SAB HD
+http://thoptv.in1.bitmana.io/jioo.php?c=Sony_SAB_HD&q=800&e=.m3u8
+#EXTINF:0,STAR BHARAT HD 
+http://180.178.130.180:8000/play/a03v/index.m3u8 
+#EXTINF:0,STAR BHARAT  
+http://180.178.130.180:8000/play/a03v/index.m3u8 
+#EXTINF:0,STAR MOV HD 
+http://180.178.130.180:8000/play/a04c/index.m3u8 
+#EXTINF:0,STAR WOR P HD 
+http://180.178.130.180:8000/play/a03i/index.m3u8 
+#EXTINF:0,STAR WORLD HD  
+http://180.178.130.180:8000/play/a03j/index.m3u8 
+#EXTINF:0,Sony BBC EarHD- 
+http://180.178.130.180:8000/play/a040/index.m3u8 
+#EXTINF:0,Sony Ten 1 HD-  
+http://180.178.130.180:8000/play/a03m/index.m3u8 
+#EXTINF:0,Sony Ten 2 HD- 
+http://180.178.130.180:8000/play/a045/index.m3u8 
+#EXTINF:0,Sony Ten 3 HD 
+http://180.178.130.180:8000/play/a03s/index.m3u8 
+#EXTINF:0,Star GOLD HD  
+http://180.178.130.180:8000/play/a03x/index.m3u8 
+#EXTINF:0,Star Gold 2-  
+http://180.178.130.180:8000/play/a04m/index.m3u8 
+#EXTINF:0,Star Gold SelHD- 
+http://180.178.130.180:8000/play/a03z/index.m3u8 
+#EXTINF:0,Star Plus HD  
+http://180.178.130.180:8000/play/a038/index.m3u8 
+#EXTINF:0,Star S Hin 1 HD- 
+http://180.178.130.180:8000/play/a03o/index.m3u8 
+#EXTINF:0,Star Utsav  
+http://180.178.130.180:8000/play/a04i/index.m3u8 
+#EXTINF:0,Star Mov S HD 
+http://180.178.130.180:8000/play/a04d/index.m3u8 
+#EXTINF:0,TLC HD- Rs3 
+http://180.178.130.180:8000/play/a049/index.m3u8 
+#EXTINF:0,UTV ACTION
+http://180.178.130.180:8000/play/a04l/index.m3u8 
+#EXTINF:0,UTV MOVIES 
+http://180.178.130.180:8000/play/a04k/index.m3u8 
+#EXTINF:0,ZEE ANMOL 
+http://180.178.130.180:8000/play/a05k/index.m3u8 
+#EXTINF:0,ZEE Bollywood 
+http://180.178.130.180:8000/play/a04n/index.m3u8 
+#EXTINF:0,ZEE CINEMA HD 
+http://180.178.130.180:8000/play/a03u/index.m3u8 
+#EXTINF:0,ZEE Cafe  
+http://180.178.130.180:8000/play/a04a/index.m3u8 
+#EXTINF:0,ZEE TV HD 
+http://180.178.130.180:8000/play/a039/index.m3u8 
+#EXTINF:0,Zing  
+http://180.178.130.180:8000/play/a05t/index.m3u8 
+#EXTINF:0,colors INFIN HD 
+http://180.178.130.180:8000/play/a046/index.m3u8 
+#EXTINF:0,colors rishtey  
+http://180.178.130.180:8000/play/a05j/index.m3u8 
+#EXTINF:0,nick HD+
+http://180.178.130.180:8000/play/a047/index.m3u8  
+#EXTINF:0,PIX HD
+http://103.131.212.138:8000/play/a017/index.m3u8 
+#EXTINF:0,Romedy NOW
+http://103.131.212.138:8000/play/a035/index.m3u8 
+#EXTINF:0,Sony SET HD
+http://103.131.212.138:8000/play/a01k/index.m3u8 
+#EXTINF:0,SIX HD
+http://103.131.212.138:8000/play/a028/index.m3u8 
+#EXTINF:0,STAR BHARAT Hd 
+http://103.131.212.138:8000/play/a011/index.m3u8 
+#EXTINF:0,STAR MOVIE s 
+http://103.131.212.138:8000/play/a00v/index.m3u8 
+#EXTINF:0,STAR WORld 
+http://103.131.212.138:8000/play/a023/index.m3u8 
+#EXTINF:0,STAR WORLD HD  
+http://103.131.212.138:8000/play/a024/index.m3u8 
+#EXTINF:0,Sony BBC EarHD
+http://103.131.212.138:8000/play/a016/index.m3u8 
+#EXTINF:0,Sony Ten 1 HD
+http://103.131.212.138:8000/play/a027/index.m3u8 
+#EXTINF:0,Sony Ten 2 HD
+http://103.131.212.138:8000/play/a01b/index.m3u8 
+#EXTINF:0,Sony Ten 3 HD
+http://103.131.212.138:8000/play/a02q/index.m3u8 
+#EXTINF:0,Star GOLD HD  
+http://103.131.212.138:8000/play/a013/index.m3u8 
+#EXTINF:0,Star Gold SelHD
+http://103.131.212.138:8000/play/a015/index.m3u8 
+#EXTINF:0,Star Plus HD
+http://103.131.212.138:8000/play/a01g/index.m3u8 
+#EXTINF:0,Star S Hin 1 HD
+http://103.131.212.138:8000/play/a029/index.m3u8 
+#EXTINF:0,StarMovieS HD
+http://103.131.212.138:8000/play/a00w/index.m3u8
